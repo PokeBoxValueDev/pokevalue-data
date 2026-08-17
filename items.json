@@ -195,15 +195,15 @@
       "svg": "<svg viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"w-10 h-10\"><defs><linearGradient id=\"shroomCap\" x1=\"0\" y1=\"10\" x2=\"0\" y2=\"30\"><stop offset=\"0%\" stop-color=\"#FF4081\"/><stop offset=\"100%\" stop-color=\"#C51162\"/></linearGradient><linearGradient id=\"shroomStem\" x1=\"0\" y1=\"30\" x2=\"0\" y2=\"60\"><stop offset=\"0%\" stop-color=\"#F8BBD0\"/><stop offset=\"100%\" stop-color=\"#F48FB1\"/></linearGradient></defs><path d=\"M22 36 C22 30, 30 30, 30 36 Z\" fill=\"url(#shroomCap)\"/><rect x=\"24\" y=\"36\" width=\"4\" height=\"12\" fill=\"url(#shroomStem)\"/><path d=\"M42 32 C42 26, 50 26, 50 32 Z\" fill=\"url(#shroomCap)\"/><rect x=\"44\" y=\"32\" width=\"4\" height=\"16\" fill=\"url(#shroomStem)\"/><rect x=\"28\" y=\"28\" width=\"8\" height=\"24\" rx=\"2\" fill=\"url(#shroomStem)\"/><path d=\"M16 28 C16 14, 48 14, 48 28 Z\" fill=\"url(#shroomCap)\"/><ellipse cx=\"24\" cy=\"22\" rx=\"3\" ry=\"2\" fill=\"#FFF\" opacity=\"0.8\" transform=\"rotate(-15 24 22)\"/><ellipse cx=\"40\" cy=\"24\" rx=\"2.5\" ry=\"1.5\" fill=\"#FFF\" opacity=\"0.8\" transform=\"rotate(10 40 24)\"/><ellipse cx=\"32\" cy=\"18\" rx=\"4\" ry=\"2\" fill=\"#FFF\" opacity=\"0.8\"/></svg>"
     },
     {
-      "id": "poke_balls_20",
-      "name_es": "20 Poké Balls",
-      "name_en": "20 Poké Balls",
+      "id": "poke_ball",
+      "name_es": "Poké Ball",
+      "name_en": "Poké Ball",
       "category": "consumibles",
       "pack_size": 1,
-      "pack_price_eur": 0.91,
-      "unit_price_eur": 0.91,
-      "unit_price_coins": 100,
-      "svg": "<svg viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"w-10 h-10\"><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"white\" stroke=\"#212121\" stroke-width=\"4\"/><path d=\"M8 32 A24 24 0 0 1 56 32 Z\" fill=\"#F44336\"/><line x1=\"8\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"#212121\" stroke-width=\"4\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"white\" stroke=\"#212121\" stroke-width=\"4\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#212121\"/></svg>"
+      "pack_price_eur": 0.045,
+      "unit_price_eur": 0.045,
+      "unit_price_coins": 5,
+      "svg": "<svg viewBox=\"0 0 64 64\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"w-10 h-10\"><defs><radialGradient id=\"pbShine\" cx=\"35%\" cy=\"25%\" r=\"60%\"><stop offset=\"0%\" stop-color=\"#FF8A80\"/><stop offset=\"60%\" stop-color=\"#D50000\"/><stop offset=\"100%\" stop-color=\"#8E0000\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"#ECEFF1\" stroke=\"#263238\" stroke-width=\"3.5\"/><path d=\"M8 32 A24 24 0 0 1 56 32 Z\" fill=\"url(#pbShine)\"/><line x1=\"8\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"#263238\" stroke-width=\"3.5\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#ECEFF1\" stroke=\"#263238\" stroke-width=\"3.5\"/><circle cx=\"32\" cy=\"32\" r=\"3.5\" fill=\"#FFF\" stroke=\"#90A4AE\" stroke-width=\"1\"/><ellipse cx=\"24\" cy=\"20\" rx=\"4\" ry=\"2\" fill=\"#FFF\" opacity=\"0.6\" transform=\"rotate(-20 24 20)\"/></svg>"
     },
     {
       "id": "pokocho",
